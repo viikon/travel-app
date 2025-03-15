@@ -1,26 +1,21 @@
-from fastapi import APIRouter, Query
+from fastapi import APIRouter, Query, HTTPException
 import requests
 from api.hotels_app.config import url
-from api.hotels_app.utils import get_params, filter_hotel_data
+from fastapi import Depends
+from api.hotels_app.utils import get_params, filter_hotel_data, HotelFilter, HotelResponse
 
 router = APIRouter()  # Добавляем префикс для роутера
 
-
-@router.get('/hotels/')
-def read_hotels(query: str = "Khanuma Hotel", limit: int = Query(default=1)):
-    params = get_params(query, limit)
-    
+@router.get('/hotels/', response_model=HotelResponse)
+def read_hotels(
+    query: str = Query(..., min_length=1),
+    limit: int = Query(1, ge=1, le=20)
+):
+    filter_params = HotelFilter(query=query, limit=limit)
+    params = get_params(filter_params.query, filter_params.limit)
     response = requests.get(url=url, params=params)
     
-    if response.status_code != 200:
-        return {
-            "error": "Failed to fetch data from external API",
-            "status_code": response.status_code,
-            "response_text": response.text,
-        }
-        
+    
     data = response.json()
     filtered_data = filter_hotel_data(data)
-    
     return filtered_data
-   

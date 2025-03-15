@@ -1,12 +1,24 @@
-  {
-      "search_history": [
-          {"name": "Zara", "category": "shops"},
-          {"name": "Sushi Bar", "category": "restaurants"},
-          {"name": "History Museum", "category": "museums"},
-          {"name": "Amusement Park", "category": "attractions"},
-          {"name": "Zoo", "category": "attractions"},
-          {"name": "Coffee shop", "category": "shops"},
-          {"name": "Ristorante Don Camillo", "category": "restaurants"},
-          {"name": "Mediterranean Restaurant", "category": "restaurants"},          
-      ]
-  }
+{
+  "search_history": [
+    {
+      "id": "13029",
+      "category": "Brewery"
+    },
+    {
+      "id": "13302",
+      "category": "Mediterranean Restaurant"
+    },
+    {
+      "id": "13345",
+      "category": "Spanish Restaurant"
+    },
+    {
+      "id": "13006",
+      "category": "Beer Bar"
+    },
+    {
+      "id": "13347",
+      "category": "Tapas Restaurant"
+    }
+  ]
+}

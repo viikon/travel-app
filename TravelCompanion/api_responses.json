@@ -1,0 +1,396 @@
+{
+  "responses": [
+    {
+      "results": [
+        {
+          "fsq_id": "4ed3c0f002d5feaa201fb8f0",
+          "categories": [
+            {
+              "id": 13029,
+              "name": "Brewery",
+              "short_name": "Brewery",
+              "plural_name": "Breweries",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13302,
+              "name": "Mediterranean Restaurant",
+              "short_name": "Mediterranean",
+              "plural_name": "Mediterranean Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13345,
+              "name": "Spanish Restaurant",
+              "short_name": "Spanish",
+              "plural_name": "Spanish Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 779,
+          "geocodes": {
+            "drop_off": {
+              "latitude": 41.382641,
+              "longitude": 2.163497
+            },
+            "main": {
+              "latitude": 41.382648,
+              "longitude": 2.163408
+            },
+            "roof": {
+              "latitude": 41.382648,
+              "longitude": 2.163408
+            }
+          },
+          "link": "/v3/places/4ed3c0f002d5feaa201fb8f0",
+          "location": {
+            "address": "Ronda de Sant Antoni, 41",
+            "admin_region": "Cataluña",
+            "country": "ES",
+            "formatted_address": "Ronda de Sant Antoni, 41, 08011 Barcelona Catalunya",
+            "locality": "Barcelona",
+            "postcode": "08011",
+            "region": "Catalunya"
+          },
+          "name": "Fàbrica Moritz Barcelona",
+          "related_places": {
+            "children": [
+              {
+                "fsq_id": "56fba622498ef29b9609b396",
+                "categories": [
+                  {
+                    "id": 19002,
+                    "name": "Bike Rental",
+                    "short_name": "Bike",
+                    "plural_name": "Bike Rentals",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bikeshop_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Art Bike Tour"
+              },
+              {
+                "fsq_id": "57912e5f498e0b0b8ef3e644",
+                "categories": [
+                  {
+                    "id": 13155,
+                    "name": "Catalan Restaurant",
+                    "short_name": "Catalan",
+                    "plural_name": "Catalan Restaurants",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                      "suffix": ".png"
+                    }
+                  },
+                  {
+                    "id": 13302,
+                    "name": "Mediterranean Restaurant",
+                    "short_name": "Mediterranean",
+                    "plural_name": "Mediterranean Restaurants",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Alkimia"
+              },
+              {
+                "fsq_id": "57aca9b8498ece561ead9f09",
+                "categories": [
+                  {
+                    "id": 13002,
+                    "name": "Bakery",
+                    "short_name": "Bakery",
+                    "plural_name": "Bakeries",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Triticum"
+              }
+            ]
+          },
+          "timezone": "Europe/Madrid"
+        },
+        {
+          "fsq_id": "523af91f0493afa47f7c01b0",
+          "categories": [
+            {
+              "id": 13006,
+              "name": "Beer Bar",
+              "short_name": "Beer Bar",
+              "plural_name": "Beer Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13029,
+              "name": "Brewery",
+              "short_name": "Brewery",
+              "plural_name": "Breweries",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13347,
+              "name": "Tapas Restaurant",
+              "short_name": "Tapas",
+              "plural_name": "Tapas Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 281,
+          "geocodes": {
+            "drop_off": {
+              "latitude": 41.386312,
+              "longitude": 2.159671
+            },
+            "main": {
+              "latitude": 41.386206,
+              "longitude": 2.159714
+            },
+            "roof": {
+              "latitude": 41.386206,
+              "longitude": 2.159714
+            }
+          },
+          "link": "/v3/places/523af91f0493afa47f7c01b0",
+          "location": {
+            "address": "Muntaner, 55",
+            "admin_region": "Cataluña",
+            "country": "ES",
+            "cross_street": "C. del Consell de Cent",
+            "formatted_address": "Muntaner, 55 (C. del Consell de Cent), 08011 Barcelona Catalunya",
+            "locality": "Barcelona",
+            "postcode": "08011",
+            "region": "Catalunya"
+          },
+          "name": "BierCaB",
+          "related_places": {
+            "children": [
+              {
+                "fsq_id": "5467286d498e1d8581f8992a",
+                "categories": [
+                  {
+                    "id": 17058,
+                    "name": "Beer Store",
+                    "short_name": "Beer Store",
+                    "plural_name": "Beer Stores",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "BierCab Shop"
+              }
+            ]
+          },
+          "timezone": "Europe/Madrid"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 41.38879,
+              "longitude": 2.15899
+            },
+            "radius": 8445
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "4edcdc9e8231efe3924d2fcb",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Café",
+              "short_name": "Café",
+              "plural_name": "Cafés",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 581,
+          "geocodes": {
+            "main": {
+              "latitude": 33.586757,
+              "longitude": -7.617376
+            }
+          },
+          "link": "/v3/places/4edcdc9e8231efe3924d2fcb",
+          "location": {
+            "address": "Mers Sultan, Casablanca",
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": "Mers Sultan, Casablanca",
+            "region": "الدار البيضاء — سطات‎"
+          },
+          "name": "Cafe",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        },
+        {
+          "fsq_id": "4fef2fc6e4b0f9bd2bbf2cda",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Café",
+              "short_name": "Café",
+              "plural_name": "Cafés",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1266,
+          "geocodes": {
+            "main": {
+              "latitude": 33.577752,
+              "longitude": -7.606216
+            }
+          },
+          "link": "/v3/places/4fef2fc6e4b0f9bd2bbf2cda",
+          "location": {
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": ""
+          },
+          "name": "CAFÈ IMPÈRIAL",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 33.58831,
+              "longitude": -7.61138
+            },
+            "radius": 6152
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "4edcdc9e8231efe3924d2fcb",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Café",
+              "short_name": "Café",
+              "plural_name": "Cafés",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 581,
+          "geocodes": {
+            "main": {
+              "latitude": 33.586757,
+              "longitude": -7.617376
+            }
+          },
+          "link": "/v3/places/4edcdc9e8231efe3924d2fcb",
+          "location": {
+            "address": "Mers Sultan, Casablanca",
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": "Mers Sultan, Casablanca",
+            "region": "الدار البيضاء — سطات‎"
+          },
+          "name": "Cafe",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        },
+        {
+          "fsq_id": "4fef2fc6e4b0f9bd2bbf2cda",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Café",
+              "short_name": "Café",
+              "plural_name": "Cafés",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1266,
+          "geocodes": {
+            "main": {
+              "latitude": 33.577752,
+              "longitude": -7.606216
+            }
+          },
+          "link": "/v3/places/4fef2fc6e4b0f9bd2bbf2cda",
+          "location": {
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": ""
+          },
+          "name": "CAFÈ IMPÈRIAL",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 33.58831,
+              "longitude": -7.61138
+            },
+            "radius": 6152
+          }
+        }
+      }
+    }
+  ]
+}
