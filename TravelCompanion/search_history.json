@@ -19,6 +19,66 @@
     {
       "id": "13347",
       "category": "Tapas Restaurant"
+    },
+    {
+      "id": "13034",
+      "category": "Café"
+    },
+    {
+      "id": "10028",
+      "category": "Art Museum"
+    },
+    {
+      "id": "10027",
+      "category": "Museum"
+    },
+    {
+      "id": "17018",
+      "category": "Bookstore"
+    },
+    {
+      "id": "17030",
+      "category": "Cosmetics Store"
+    },
+    {
+      "id": "17000",
+      "category": "Retail"
+    },
+    {
+      "id": "17043",
+      "category": "Clothing Store"
+    },
+    {
+      "id": "17044",
+      "category": "Fashion Accessories Store"
+    },
+    {
+      "id": "17052",
+      "category": "Women's Store"
+    },
+    {
+      "id": "17068",
+      "category": "Gourmet Store"
+    },
+    {
+      "id": "17069",
+      "category": "Grocery Store"
+    },
+    {
+      "id": "10030",
+      "category": "History Museum"
+    },
+    {
+      "id": "13002",
+      "category": "Bakery"
+    },
+    {
+      "id": "13057",
+      "category": "Gastropub"
+    },
+    {
+      "id": "13313",
+      "category": "Moroccan Restaurant"
     }
   ]
 }

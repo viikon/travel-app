@@ -391,6 +391,1450 @@
           }
         }
       }
-    }
-  ]
-}
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "4bae535af964a520f5a23be3",
+          "categories": [
+            {
+              "id": 10028,
+              "name": "Art Museum",
+              "short_name": "Art Museum",
+              "plural_name": "Art Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 766,
+          "geocodes": {
+            "main": {
+              "latitude": 48.855139,
+              "longitude": 2.358954
+            },
+            "roof": {
+              "latitude": 48.855139,
+              "longitude": 2.358954
+            }
+          },
+          "link": "/v3/places/4bae535af964a520f5a23be3",
+          "location": {
+            "address": "5-7 rue de Fourcy, 4e",
+            "admin_region": "Île-de-France",
+            "country": "FR",
+            "formatted_address": "5-7 rue de Fourcy, 4e, 75004 Paris",
+            "locality": "Paris",
+            "postcode": "75004",
+            "region": "Île-de-France"
+          },
+          "name": "Maison Européenne de la Photographie",
+          "related_places": {},
+          "timezone": "Europe/Paris"
+        },
+        {
+          "fsq_id": "4adcda0ef964a520353521e3",
+          "categories": [
+            {
+              "id": 10027,
+              "name": "Museum",
+              "short_name": "Museum",
+              "plural_name": "Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 807,
+          "geocodes": {
+            "main": {
+              "latitude": 48.856677,
+              "longitude": 2.33907
+            },
+            "roof": {
+              "latitude": 48.856677,
+              "longitude": 2.33907
+            }
+          },
+          "link": "/v3/places/4adcda0ef964a520353521e3",
+          "location": {
+            "address": "11 quai de Conti, 6e",
+            "admin_region": "Île-de-France",
+            "country": "FR",
+            "formatted_address": "11 quai de Conti, 6e, 75006 Paris",
+            "locality": "Paris",
+            "postcode": "75006",
+            "region": "Île-de-France"
+          },
+          "name": "Monnaie de Paris",
+          "related_places": {
+            "children": [
+              {
+                "fsq_id": "5540b49d498e84ce71f6b0ce",
+                "categories": [
+                  {
+                    "id": 13139,
+                    "name": "Eastern European Restaurant",
+                    "short_name": "Eastern European",
+                    "plural_name": "Eastern European Restaurants",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                      "suffix": ".png"
+                    }
+                  },
+                  {
+                    "id": 13148,
+                    "name": "French Restaurant",
+                    "short_name": "French",
+                    "plural_name": "French Restaurants",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Restaurant Guy Savoy"
+              },
+              {
+                "fsq_id": "5abd0d073fcee827975e2fd7",
+                "categories": [
+                  {
+                    "id": 10027,
+                    "name": "Museum",
+                    "short_name": "Museum",
+                    "plural_name": "Museums",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Musée de la Monnaie de Paris"
+              }
+            ]
+          },
+          "timezone": "Europe/Paris"
+        },
+        {
+          "fsq_id": "4adcda0ff964a520673521e3",
+          "categories": [
+            {
+              "id": 10027,
+              "name": "Museum",
+              "short_name": "Museum",
+              "plural_name": "Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 773,
+          "geocodes": {
+            "main": {
+              "latitude": 48.848959,
+              "longitude": 2.357098
+            },
+            "roof": {
+              "latitude": 48.848959,
+              "longitude": 2.357098
+            }
+          },
+          "link": "/v3/places/4adcda0ff964a520673521e3",
+          "location": {
+            "address": "1 rue des Fossés-Saint-Bernard, place Mohammed-V",
+            "admin_region": "Île-de-France",
+            "country": "FR",
+            "formatted_address": "1 rue des Fossés-Saint-Bernard, place Mohammed-V, 75005 Paris",
+            "locality": "Paris",
+            "postcode": "75005",
+            "region": "Île-de-France"
+          },
+          "name": "Institut du Monde Arabe",
+          "related_places": {
+            "children": [
+              {
+                "fsq_id": "4bd1e55c9854d13a2c79fa4d",
+                "categories": [
+                  {
+                    "id": 10027,
+                    "name": "Museum",
+                    "short_name": "Museum",
+                    "plural_name": "Museums",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                      "suffix": ".png"
+                    }
+                  },
+                  {
+                    "id": 13309,
+                    "name": "Middle Eastern Restaurant",
+                    "short_name": "Middle Eastern",
+                    "plural_name": "Middle Eastern Restaurants",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Restaurant de l'Institut du Monde Arabe."
+              }
+            ]
+          },
+          "timezone": "Europe/Paris"
+        },
+        {
+          "fsq_id": "4adcda10f964a5209b3521e3",
+          "categories": [
+            {
+              "id": 10027,
+              "name": "Museum",
+              "short_name": "Museum",
+              "plural_name": "Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 489,
+          "geocodes": {
+            "main": {
+              "latitude": 48.850597,
+              "longitude": 2.343759
+            },
+            "roof": {
+              "latitude": 48.850598,
+              "longitude": 2.343728
+            }
+          },
+          "link": "/v3/places/4adcda10f964a5209b3521e3",
+          "location": {
+            "address": "6 place Paul Painlevé",
+            "admin_region": "Île-de-France",
+            "country": "FR",
+            "cross_street": "Rue de Cluny",
+            "formatted_address": "6 place Paul Painlevé (Rue de Cluny), 75005 Paris",
+            "locality": "Paris",
+            "postcode": "75005",
+            "region": "Île-de-France"
+          },
+          "name": "Musée National du Moyen Age (Musée de Cluny - Musée National du Moyen Âge)",
+          "related_places": {
+            "children": [
+              {
+                "fsq_id": "23f87198d7444ab0afe8c3de",
+                "categories": [
+                  {
+                    "id": 16000,
+                    "name": "Landmarks and Outdoors",
+                    "short_name": "Landmarks and Outdoors",
+                    "plural_name": "Landmarks and Outdoors",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Les Thermes de Cluny"
+              },
+              {
+                "fsq_id": "e8f503f72eb343466e6c171c",
+                "categories": [
+                  {
+                    "id": 10027,
+                    "name": "Museum",
+                    "short_name": "Museum",
+                    "plural_name": "Museums",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                      "suffix": ".png"
+                    }
+                  },
+                  {
+                    "id": 16032,
+                    "name": "Park",
+                    "short_name": "Park",
+                    "plural_name": "Parks",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Le Jardin du Muse'e de Cluny-Musée National du Moyen Âge"
+              },
+              {
+                "fsq_id": "5dc6c072b3106800076ac147",
+                "categories": [
+                  {
+                    "id": 16032,
+                    "name": "Park",
+                    "short_name": "Park",
+                    "plural_name": "Parks",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Jardin Médiéval du Musée de Cluny"
+              }
+            ]
+          },
+          "timezone": "Europe/Paris"
+        },
+        {
+          "fsq_id": "4adcda10f964a520af3521e3",
+          "categories": [
+            {
+              "id": 10027,
+              "name": "Museum",
+              "short_name": "Museum",
+              "plural_name": "Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1224,
+          "geocodes": {
+            "main": {
+              "latitude": 48.860904,
+              "longitude": 2.336351
+            },
+            "roof": {
+              "latitude": 48.862719,
+              "longitude": 2.334817
+            }
+          },
+          "link": "/v3/places/4adcda10f964a520af3521e3",
+          "location": {
+            "address": "99 rue de Rivoli",
+            "admin_region": "Île-de-France",
+            "country": "FR",
+            "cross_street": "Place du Carrousel",
+            "formatted_address": "99 rue de Rivoli (Place du Carrousel), 75001 Paris",
+            "locality": "Paris",
+            "postcode": "75001",
+            "region": "Île-de-France"
+          },
+          "name": "Louvre Museum (Musée du Louvre)",
+          "related_places": {
+            "parent": {
+              "fsq_id": "5b680ca8acb37f0039137c60",
+              "categories": [
+                {
+                  "id": 10028,
+                  "name": "Art Museum",
+                  "short_name": "Art Museum",
+                  "plural_name": "Art Museums",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                    "suffix": ".png"
+                  }
+                },
+                {
+                  "id": 16026,
+                  "name": "Monument",
+                  "short_name": "Monument",
+                  "plural_name": "Monuments",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                    "suffix": ".png"
+                  }
+                },
+                {
+                  "id": 16031,
+                  "name": "Palace",
+                  "short_name": "Palace",
+                  "plural_name": "Palaces",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                    "suffix": ".png"
+                  }
+                }
+              ],
+              "name": "Palais du Louvre"
+            },
+            "children": [
+              {
+                "fsq_id": "4f6dabf5003944083fe0002e",
+                "categories": [
+                  {
+                    "id": 16000,
+                    "name": "Landmarks and Outdoors",
+                    "short_name": "Landmarks and Outdoors",
+                    "plural_name": "Landmarks and Outdoors",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Vestige de la forteresse du Louvre et salle Saint-Louis"
+              },
+              {
+                "fsq_id": "51814eca3a46430005947026",
+                "categories": [],
+                "name": "La Chalcographie du Louvre"
+              }
+            ]
+          },
+          "timezone": "Europe/Paris"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 48.85341,
+              "longitude": 2.3488
+            },
+            "radius": 19149
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "4adcda21f964a520f23921e3",
+          "categories": [
+            {
+              "id": 17018,
+              "name": "Bookstore",
+              "short_name": "Bookstore",
+              "plural_name": "Bookstores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 155,
+          "geocodes": {
+            "drop_off": {
+              "latitude": 48.852656,
+              "longitude": 2.34719
+            },
+            "main": {
+              "latitude": 48.852535,
+              "longitude": 2.347139
+            },
+            "roof": {
+              "latitude": 48.852535,
+              "longitude": 2.347139
+            }
+          },
+          "link": "/v3/places/4adcda21f964a520f23921e3",
+          "location": {
+            "address": "37 rue de la Bûcherie",
+            "admin_region": "Île-de-France",
+            "country": "FR",
+            "formatted_address": "37 rue de la Bûcherie, 75005 Paris",
+            "locality": "Paris",
+            "postcode": "75005",
+            "region": "Île-de-France"
+          },
+          "name": "Shakespeare & Company",
+          "related_places": {
+            "children": [
+              {
+                "fsq_id": "56d1a14fcd10d6b76bbf57d0",
+                "categories": [
+                  {
+                    "id": 17002,
+                    "name": "Antique Store",
+                    "short_name": "Antiques",
+                    "plural_name": "Antique Stores",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/antique_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Shakespeare Antiquarian Books"
+              },
+              {
+                "fsq_id": "562a40c3498e425bd63baa85",
+                "categories": [
+                  {
+                    "id": 17018,
+                    "name": "Bookstore",
+                    "short_name": "Bookstore",
+                    "plural_name": "Bookstores",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Shakespeare & Company"
+              }
+            ]
+          },
+          "timezone": "Europe/Paris"
+        },
+        {
+          "fsq_id": "533ffd0611d24e92867c9a17",
+          "categories": [
+            {
+              "id": 17030,
+              "name": "Cosmetics Store",
+              "short_name": "Cosmetics",
+              "plural_name": "Cosmetics Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 1088,
+          "geocodes": {
+            "drop_off": {
+              "latitude": 48.857212,
+              "longitude": 2.335073
+            },
+            "main": {
+              "latitude": 48.857274,
+              "longitude": 2.334958
+            },
+            "roof": {
+              "latitude": 48.857274,
+              "longitude": 2.334958
+            }
+          },
+          "link": "/v3/places/533ffd0611d24e92867c9a17",
+          "location": {
+            "address": "6 rue Bonaparte",
+            "admin_region": "Île-de-France",
+            "country": "FR",
+            "cross_street": "",
+            "formatted_address": "6 rue Bonaparte, 75006 Paris",
+            "locality": "Paris",
+            "postcode": "75006",
+            "region": "Île-de-France"
+          },
+          "name": "Buly 1803",
+          "related_places": {},
+          "timezone": "Europe/Paris"
+        },
+        {
+          "fsq_id": "5834aeab26a4072fcb6c0dd4",
+          "categories": [
+            {
+              "id": 17000,
+              "name": "Retail",
+              "short_name": "Retail",
+              "plural_name": "Retail",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 941,
+          "geocodes": {
+            "main": {
+              "latitude": 48.852356218673194,
+              "longitude": 2.336020538993193
+            }
+          },
+          "link": "/v3/places/5834aeab26a4072fcb6c0dd4",
+          "location": {
+            "address": "9 rue Clément",
+            "admin_region": "Île-de-France",
+            "country": "FR",
+            "cross_street": "Rue Lobineau",
+            "formatted_address": "9 rue Clément (Rue Lobineau), 75006 Paris",
+            "locality": "Paris",
+            "postcode": "75006",
+            "region": "Île-de-France"
+          },
+          "name": "Apple Marché Saint-Germain",
+          "related_places": {
+            "parent": {
+              "fsq_id": "4af5a497f964a520b9fa21e3",
+              "categories": [
+                {
+                  "id": 13065,
+                  "name": "Restaurant",
+                  "short_name": "Restaurant",
+                  "plural_name": "Restaurants",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                    "suffix": ".png"
+                  }
+                }
+              ],
+              "name": "Marché Saint-Germain"
+            }
+          },
+          "timezone": "Europe/Paris"
+        },
+        {
+          "fsq_id": "4bc094f1920eb713a51b192c",
+          "categories": [
+            {
+              "id": 17043,
+              "name": "Clothing Store",
+              "short_name": "Apparel",
+              "plural_name": "Clothing Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 17044,
+              "name": "Fashion Accessories Store",
+              "short_name": "Fashion Accessories Store",
+              "plural_name": "Fashion Accessories Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_accessories_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 17052,
+              "name": "Women's Store",
+              "short_name": "Women's Store",
+              "plural_name": "Women's Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_women_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 1332,
+          "geocodes": {
+            "drop_off": {
+              "latitude": 48.854283,
+              "longitude": 2.330691
+            },
+            "main": {
+              "latitude": 48.854155,
+              "longitude": 2.330659
+            },
+            "roof": {
+              "latitude": 48.854155,
+              "longitude": 2.330659
+            }
+          },
+          "link": "/v3/places/4bc094f1920eb713a51b192c",
+          "location": {
+            "address": "173 boulevard Saint Germain",
+            "admin_region": "Île-de-France",
+            "country": "FR",
+            "formatted_address": "173 boulevard Saint Germain, 75006 Paris",
+            "locality": "Paris",
+            "postcode": "75006",
+            "region": "Île-de-France"
+          },
+          "name": "Ralph Lauren",
+          "related_places": {
+            "children": [
+              {
+                "fsq_id": "4bd88cb211dcc9280ad0f633",
+                "categories": [
+                  {
+                    "id": 13027,
+                    "name": "Bistro",
+                    "short_name": "Bistro",
+                    "plural_name": "Bistros",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                      "suffix": ".png"
+                    }
+                  },
+                  {
+                    "id": 13031,
+                    "name": "Burger Joint",
+                    "short_name": "Burgers",
+                    "plural_name": "Burger Joints",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                      "suffix": ".png"
+                    }
+                  },
+                  {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "short_name": "American",
+                    "plural_name": "American Restaurants",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Ralph's Restaurant"
+              }
+            ]
+          },
+          "timezone": "Europe/Paris"
+        },
+        {
+          "fsq_id": "4adcda21f964a520fc3921e3",
+          "categories": [
+            {
+              "id": 17068,
+              "name": "Gourmet Store",
+              "short_name": "Gourmet",
+              "plural_name": "Gourmet Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 17069,
+              "name": "Grocery Store",
+              "short_name": "Grocery Store",
+              "plural_name": "Grocery Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1892,
+          "geocodes": {
+            "main": {
+              "latitude": 48.850265,
+              "longitude": 2.323485
+            },
+            "roof": {
+              "latitude": 48.850265,
+              "longitude": 2.323485
+            }
+          },
+          "link": "/v3/places/4adcda21f964a520fc3921e3",
+          "location": {
+            "address": "38 rue de Sèvres",
+            "admin_region": "Île-de-France",
+            "country": "FR",
+            "cross_street": "",
+            "formatted_address": "38 rue de Sèvres, 75007 Paris",
+            "locality": "Paris",
+            "postcode": "75007",
+            "region": "Île-de-France"
+          },
+          "name": "La Grande Epicerie Paris",
+          "related_places": {
+            "children": [
+              {
+                "fsq_id": "52d16a4e498e6da6fa6a289b",
+                "categories": [
+                  {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "short_name": "Restaurant",
+                    "plural_name": "Restaurants",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                      "suffix": ".png"
+                    }
+                  },
+                  {
+                    "id": 17068,
+                    "name": "Gourmet Store",
+                    "short_name": "Gourmet",
+                    "plural_name": "Gourmet Stores",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Artisan de la Truffe"
+              },
+              {
+                "fsq_id": "58fcbdbcacc5f57ae5607495",
+                "categories": [
+                  {
+                    "id": 17069,
+                    "name": "Grocery Store",
+                    "short_name": "Grocery Store",
+                    "plural_name": "Grocery Stores",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Maison de la Truffe"
+              },
+              {
+                "fsq_id": "5b506c19b6eedb002c02d289",
+                "categories": [
+                  {
+                    "id": 13338,
+                    "name": "Seafood Restaurant",
+                    "short_name": "Seafood",
+                    "plural_name": "Seafood Restaurants",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "La Marée"
+              },
+              {
+                "fsq_id": "511f8ab4e4b093807afda565",
+                "categories": [
+                  {
+                    "id": 13041,
+                    "name": "Creperie",
+                    "short_name": "Creperie",
+                    "plural_name": "Creperies",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/creperie_",
+                      "suffix": ".png"
+                    }
+                  },
+                  {
+                    "id": 17080,
+                    "name": "Wine Store",
+                    "short_name": "Wine Store",
+                    "plural_name": "Wine Stores",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_wineshop_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Cave de la Grande Épicerie de Paris"
+              },
+              {
+                "fsq_id": "4c84fbc651ada1cdb2373310",
+                "categories": [
+                  {
+                    "id": 13042,
+                    "name": "Cupcake Shop",
+                    "short_name": "Cupcakes",
+                    "plural_name": "Cupcake Shops",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cupcakes_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Le Café de la Grande Épicerie"
+              }
+            ]
+          },
+          "timezone": "Europe/Paris"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 48.85341,
+              "longitude": 2.3488
+            },
+            "radius": 19149
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "505de1c4e4b0478c0a776046",
+          "categories": [
+            {
+              "id": 10030,
+              "name": "History Museum",
+              "short_name": "History Museum",
+              "plural_name": "History Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 1135,
+          "geocodes": {
+            "main": {
+              "latitude": 33.592414,
+              "longitude": -7.622613
+            }
+          },
+          "link": "/v3/places/505de1c4e4b0478c0a776046",
+          "location": {
+            "address": "12 Rue Du Parc",
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": "12 Rue Du Parc, 20120 الدار البيضاء",
+            "locality": "الدار البيضاء",
+            "postcode": "20120",
+            "region": "الدار البيضاء — سطات‎"
+          },
+          "name": "Musée de la Fondation Abderrahman slaoui",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        },
+        {
+          "fsq_id": "4f803a09e4b0a458b9bbb53d",
+          "categories": [
+            {
+              "id": 10027,
+              "name": "Museum",
+              "short_name": "Museum",
+              "plural_name": "Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1233,
+          "geocodes": {
+            "main": {
+              "latitude": 33.598617,
+              "longitude": -7.616334
+            }
+          },
+          "link": "/v3/places/4f803a09e4b0a458b9bbb53d",
+          "location": {
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": ""
+          },
+          "name": "Dar El Makhzen",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        },
+        {
+          "fsq_id": "4f803942e4b024a26cfcb97e",
+          "categories": [
+            {
+              "id": 10027,
+              "name": "Museum",
+              "short_name": "Museum",
+              "plural_name": "Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1273,
+          "geocodes": {
+            "main": {
+              "latitude": 33.59901,
+              "longitude": -7.616299
+            }
+          },
+          "link": "/v3/places/4f803942e4b024a26cfcb97e",
+          "location": {
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": ""
+          },
+          "name": "Jamaa ElKebir",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        },
+        {
+          "fsq_id": "4f802cdfe4b05766b1533563",
+          "categories": [
+            {
+              "id": 10027,
+              "name": "Museum",
+              "short_name": "Museum",
+              "plural_name": "Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1403,
+          "geocodes": {
+            "main": {
+              "latitude": 33.599844,
+              "longitude": -7.617549
+            }
+          },
+          "link": "/v3/places/4f802cdfe4b05766b1533563",
+          "location": {
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": ""
+          },
+          "name": "Ancienne Place De Commerce",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        },
+        {
+          "fsq_id": "4f802be5e4b050ced5874b98",
+          "categories": [
+            {
+              "id": 10027,
+              "name": "Museum",
+              "short_name": "Museum",
+              "plural_name": "Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1443,
+          "geocodes": {
+            "main": {
+              "latitude": 33.60011,
+              "longitude": -7.617904
+            }
+          },
+          "link": "/v3/places/4f802be5e4b050ced5874b98",
+          "location": {
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": ""
+          },
+          "name": "Ancien Consulat De Belgique",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 33.58831,
+              "longitude": -7.61138
+            },
+            "radius": 6152
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "52cd6720498e9971b5d53a40",
+          "categories": [
+            {
+              "id": 13347,
+              "name": "Tapas Restaurant",
+              "short_name": "Tapas",
+              "plural_name": "Tapas Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1121,
+          "geocodes": {
+            "main": {
+              "latitude": 33.597824,
+              "longitude": -7.615421
+            }
+          },
+          "link": "/v3/places/52cd6720498e9971b5d53a40",
+          "location": {
+            "address": "26 bis Bd. Félix Houphouet Boigny",
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": "26 bis Bd. Félix Houphouet Boigny, 12000 Casablanca",
+            "locality": "Casablanca",
+            "postcode": "12000",
+            "region": "Casablanca-Settat"
+          },
+          "name": "Casa Jose",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        },
+        {
+          "fsq_id": "4ef6312cbe7bb4784ca82fc3",
+          "categories": [
+            {
+              "id": 13002,
+              "name": "Bakery",
+              "short_name": "Bakery",
+              "plural_name": "Bakeries",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1270,
+          "geocodes": {
+            "main": {
+              "latitude": 33.577938,
+              "longitude": -7.605603
+            }
+          },
+          "link": "/v3/places/4ef6312cbe7bb4784ca82fc3",
+          "location": {
+            "address": "2 Rue Fkih EL Gabras",
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": "2 Rue Fkih EL Gabras, Casablanca",
+            "locality": "Casablanca"
+          },
+          "name": "Patisserie Bennis Habous",
+          "related_places": {
+            "parent": {
+              "fsq_id": "5d56afc16ac2400008b59546",
+              "categories": [
+                {
+                  "id": 17054,
+                  "name": "Flea Market",
+                  "short_name": "Flea Market",
+                  "plural_name": "Flea Markets",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/fleamarket_",
+                    "suffix": ".png"
+                  }
+                }
+              ],
+              "name": "Habous market"
+            }
+          },
+          "timezone": "Africa/Casablanca"
+        },
+        {
+          "fsq_id": "4fef2fc6e4b0f9bd2bbf2cda",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Café",
+              "short_name": "Café",
+              "plural_name": "Cafés",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1266,
+          "geocodes": {
+            "main": {
+              "latitude": 33.577752,
+              "longitude": -7.606216
+            }
+          },
+          "link": "/v3/places/4fef2fc6e4b0f9bd2bbf2cda",
+          "location": {
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": ""
+          },
+          "name": "CAFÈ IMPÈRIAL",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        },
+        {
+          "fsq_id": "4dee2ea7ae6052cbed174112",
+          "categories": [
+            {
+              "id": 13057,
+              "name": "Gastropub",
+              "short_name": "Gastropub",
+              "plural_name": "Gastropubs",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1488,
+          "geocodes": {
+            "main": {
+              "latitude": 33.588398,
+              "longitude": -7.627454
+            }
+          },
+          "link": "/v3/places/4dee2ea7ae6052cbed174112",
+          "location": {
+            "address": "Rue Taha Houcine",
+            "country": "MA",
+            "cross_street": "",
+            "formatted_address": "Rue Taha Houcine, الدار البيضاء",
+            "locality": "الدار البيضاء",
+            "region": "الدار البيضاء — سطات‎"
+          },
+          "name": "Bistro Chic",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        },
+        {
+          "fsq_id": "4bcb60e6cc8cd13acb45bfcf",
+          "categories": [
+            {
+              "id": 13313,
+              "name": "Moroccan Restaurant",
+              "short_name": "Moroccan",
+              "plural_name": "Moroccan Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/moroccan_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "VeryLikelyOpen",
+          "distance": 1792,
+          "geocodes": {
+            "main": {
+              "latitude": 33.602983,
+              "longitude": -7.61943
+            }
+          },
+          "link": "/v3/places/4bcb60e6cc8cd13acb45bfcf",
+          "location": {
+            "address": "Boulevard des Almohades, Casablanca, Maroc",
+            "country": "MA",
+            "formatted_address": "Boulevard des Almohades, Casablanca, Maroc, 20000 الدار البيضاء",
+            "locality": "الدار البيضاء",
+            "postcode": "20000",
+            "region": "الدار البيضاء — سطات‎"
+          },
+          "name": "La Sqala: Café Maure",
+          "related_places": {},
+          "timezone": "Africa/Casablanca"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 33.58831,
+              "longitude": -7.61138
+            },
+            "radius": 6152
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "4c0004d8f61ea593c12beb13",
+          "categories": [
+            {
+              "id": 13009,
+              "name": "Cocktail Bar",
+              "short_name": "Cocktail",
+              "plural_name": "Cocktail Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 1128,
+          "geocodes": {
+            "main": {
+              "latitude": 55.74268,
+              "longitude": 37.609363
+            }
+          },
+          "link": "/v3/places/4c0004d8f61ea593c12beb13",
+          "location": {
+            "address": "Берсеневская наб., 14",
+            "address_extended": "стр. 5",
+            "country": "RU",
+            "formatted_address": "Берсеневская наб., 14, 119072, Москва",
+            "locality": "Москва",
+            "postcode": "119072",
+            "region": "Москва"
+          },
+          "name": "Bar Strelka (Бар «Стрелка»)",
+          "related_places": {
+            "parent": {
+              "fsq_id": "4bfbc876ab180f47da3ab4ce",
+              "categories": [
+                {
+                  "id": 10028,
+                  "name": "Art Museum",
+                  "short_name": "Art Museum",
+                  "plural_name": "Art Museums",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                    "suffix": ".png"
+                  }
+                },
+                {
+                  "id": 11039,
+                  "name": "Event Space",
+                  "short_name": "Event Space",
+                  "plural_name": "Event Spaces",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                    "suffix": ".png"
+                  }
+                }
+              ],
+              "name": "КБ Стрелка"
+            },
+            "children": []
+          },
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "55c1384d498e1608a19aed86",
+          "categories": [
+            {
+              "id": 13006,
+              "name": "Beer Bar",
+              "short_name": "Beer Bar",
+              "plural_name": "Beer Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13034,
+              "name": "Café",
+              "short_name": "Café",
+              "plural_name": "Cafés",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13065,
+              "name": "Restaurant",
+              "short_name": "Restaurant",
+              "plural_name": "Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 542,
+          "geocodes": {
+            "main": {
+              "latitude": 55.751415,
+              "longitude": 37.606918
+            },
+            "roof": {
+              "latitude": 55.751415,
+              "longitude": 37.606918
+            }
+          },
+          "link": "/v3/places/55c1384d498e1608a19aed86",
+          "location": {
+            "address": "Староваганьковский пер., 19",
+            "address_extended": "стр. 7",
+            "country": "RU",
+            "cross_street": "",
+            "formatted_address": "Староваганьковский пер., 19, 119019, Москва",
+            "locality": "Москва",
+            "postcode": "119019",
+            "region": "Москва"
+          },
+          "name": "RULE taproom",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "5b97ca74cabcff002c463e86",
+          "categories": [
+            {
+              "id": 13003,
+              "name": "Bar",
+              "short_name": "Bar",
+              "plural_name": "Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 3003,
+          "geocodes": {
+            "main": {
+              "latitude": 55.741551,
+              "longitude": 37.659678
+            }
+          },
+          "link": "/v3/places/5b97ca74cabcff002c463e86",
+          "location": {
+            "address": "Товарищеский пер., д.4 стр",
+            "address_extended": "стр. 5",
+            "country": "RU",
+            "cross_street": "",
+            "formatted_address": "Товарищеский пер., д.4 стр, 109004, Москва",
+            "locality": "Москва",
+            "postcode": "109004",
+            "region": "Москва"
+          },
+          "name": "Крафтовый бар Method Beer & Munchies",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 55.75222,
+              "longitude": 37.61556
+            },
+            "radius": 24000
+          }
+        }
+      }
+    },
+    

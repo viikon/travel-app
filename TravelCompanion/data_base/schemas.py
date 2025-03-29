@@ -18,6 +18,3 @@ class CreateTable(BaseModel):
 
 class Table(CreateTable):
     id: int  
-
-    class Config:
-        from_attributes = True  # Ранее known as `orm_mode = True`

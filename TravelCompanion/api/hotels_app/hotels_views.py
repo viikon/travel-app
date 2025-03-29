@@ -4,7 +4,7 @@ from api.hotels_app.config import url
 from fastapi import Depends
 from api.hotels_app.utils import get_params, filter_hotel_data, HotelFilter, HotelResponse
 
-router = APIRouter()  # Добавляем префикс для роутера
+router = APIRouter()
 
 @router.get('/hotels/', response_model=HotelResponse)
 def read_hotels(
