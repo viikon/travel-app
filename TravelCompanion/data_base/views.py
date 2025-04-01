@@ -1,18 +1,11 @@
 from typing import Annotated
+
+from data_base.config import get_db
+from data_base.crud import create_comment, read_comment, read_all_comments
+from data_base.schemas import Table, CreateTable
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
-from data_base.crud import create_comment, read_comment, read_all_comments
-from data_base.config import db_helper
-from data_base.schemas import Table, CreateTable
-from fastapi import Body
-from typing import Optional
 
-def get_db():
-    db = db_helper.session()
-    try:
-        yield db
-    finally:
-        db.close()
 
 router = APIRouter()
 

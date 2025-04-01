@@ -1,11 +1,20 @@
-from pydantic_settings import BaseSettings
-from pydantic import BaseModel
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker, DeclarativeBase, Mapped, mapped_column, declared_attr
+from contextlib import contextmanager
 
+from fastapi import Depends
+from pydantic import BaseModel
+from pydantic_settings import BaseSettings
+from sqlalchemy import create_engine
+from sqlalchemy.orm import DeclarativeBase, Mapped, Session, declared_attr, mapped_column, sessionmaker
+
+
+def get_db():
+    db = db_helper.session()
+    try:
+        yield db
+    finally:
+        db.close()
 
 class Settings(BaseSettings):
-    # db_config
     db_url: str = 'sqlite:///./db.sqlite3'
     db_echo: bool = True
 
@@ -31,5 +40,3 @@ class CreateTableHelper(DeclarativeBase):
         return f'{cls.__name__.lower()}s'
 
     id: Mapped[int] = mapped_column(primary_key=True)
-
-        

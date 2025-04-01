@@ -1,8 +1,8 @@
-from sqlalchemy.orm import Session
-from sqlalchemy import select
-from api.places_app.config import LIMIT
+from api.places_app.config import settings
 from data_base.models import UserComment
-from data_base.schemas import Table, CreateTable
+from data_base.schemas import CreateTable
+from sqlalchemy import select
+from sqlalchemy.orm import Session
 
 
 def create_comment(db: Session, table: CreateTable):
@@ -20,7 +20,7 @@ def create_comment(db: Session, table: CreateTable):
     return comment_table
 
 
-def read_comment(db: Session, place_id: str, skip: int = 0, limit: int = LIMIT):
+def read_comment(db: Session, place_id: str, skip: int = 0, limit: int = settings.limit):
     query = select(UserComment).where(UserComment.place_id == place_id).offset(skip).limit(limit)
     result = db.execute(query)
     

@@ -1,8 +1,10 @@
-from fastapi import APIRouter, Query, HTTPException
 import requests
+
 from api.hotels_app.config import url
-from fastapi import Depends
-from api.hotels_app.utils import get_params, filter_hotel_data, HotelFilter, HotelResponse
+from api.hotels_app.utils import (HotelFilter, HotelResponse, filter_hotel_data,
+                                  get_params)
+from fastapi import APIRouter, Depends, HTTPException, Query
+
 
 router = APIRouter()
 

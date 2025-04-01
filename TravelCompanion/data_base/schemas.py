@@ -1,6 +1,4 @@
-from pydantic import BaseModel, validator, Field
-from typing import Optional
-
+from pydantic import BaseModel, validator
 
 class CreateTable(BaseModel):
     place_id: str
@@ -14,7 +12,6 @@ class CreateTable(BaseModel):
         if not (0 <= value <= 5):
             raise ValueError('Rating must be between 0 and 5')
         return value
-
 
 class Table(CreateTable):
     id: int  

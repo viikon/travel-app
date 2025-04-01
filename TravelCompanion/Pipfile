@@ -7,10 +7,11 @@ name = "pypi"
 requests = "*"
 uvicorn = "*"
 dotenv = "*"
-pydantic-settings = "*"
-pydantic = "*"
 sqlalchemy = "*"
 fastapi = {extras = ["standard"], version = "*"}
+python-dotenv = "*"
+pydantic = "*"
+pydantic-settings = "*"
 
 [dev-packages]
 

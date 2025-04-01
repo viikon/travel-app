@@ -1,18 +1,16 @@
 import json
-import requests
+import os
+import sys
 from collections import defaultdict
 from pathlib import Path
-from typing import Any
-import sys
-import os
-from pydantic import BaseModel, Field, conint
-from typing import Optional, List, Dict, Any
+
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 RESPONSES_FILE = Path(__file__).parent.parent.parent / "api_responses.json"
 
-def save_api_response(response_data: dict):
+
+def save_api_response(response_data: dict) -> None:
     """Сохраняет ответ API в файл."""
     RESPONSES_FILE.parent.mkdir(exist_ok=True, parents=True)
     
@@ -33,9 +31,9 @@ def save_api_response(response_data: dict):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def process_categories():
-    input_file = Path("api_responses.json")
-    output_file = Path("search_history.json")
+def process_categories() -> None:
+    input_file: Path = Path("api_responses.json")
+    output_file: Path = Path("search_history.json")
 
     with open(input_file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -99,9 +97,10 @@ def query_recomend(city: str, country: str, limit: int) -> dict:
         "limit": limit
     }
     
-def handle_save_api_response(response):
+def handle_saving_response(response_data: dict) -> None:
+    """Обрабатывает сохранение ответа API с обработкой исключений."""
     try:
-        save_api_response(response)
+        save_api_response(response_data)  # Теперь передаём словарь
     except Exception as e:
         print(f"Ошибка при сохранении ответа: {str(e)}")
         

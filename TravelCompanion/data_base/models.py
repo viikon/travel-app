@@ -1,6 +1,7 @@
+from data_base.config import CreateTableHelper
 from sqlalchemy import String, Integer, CheckConstraint
 from sqlalchemy.orm import Mapped, mapped_column
-from data_base.config import CreateTableHelper
+
 
 
 class UserComment(CreateTableHelper):
