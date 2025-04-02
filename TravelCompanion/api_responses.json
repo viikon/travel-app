@@ -1,0 +1,1026 @@
+{
+  "responses": [
+    {
+      "results": [
+        {
+          "fsq_id": "4c95eada82b56dcbdb0cddaa",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 960,
+          "geocodes": {
+            "main": {
+              "latitude": 55.750769,
+              "longitude": 37.600517
+            }
+          },
+          "link": "/v3/places/4c95eada82b56dcbdb0cddaa",
+          "location": {
+            "country": "RU",
+            "formatted_address": "Москва",
+            "locality": "Москва",
+            "region": "Москва"
+          },
+          "name": "Памятник Н. В. Гоголю",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "4c7ad09f93ef236a58deb30f",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 1915,
+          "geocodes": {
+            "main": {
+              "latitude": 55.747605,
+              "longitude": 37.586009
+            },
+            "roof": {
+              "latitude": 55.747605,
+              "longitude": 37.586009
+            }
+          },
+          "link": "/v3/places/4c7ad09f93ef236a58deb30f",
+          "location": {
+            "address": "Арбат Ул., д. 46",
+            "country": "RU",
+            "cross_street": "",
+            "formatted_address": "Арбат Ул., д. 46, Москва",
+            "locality": "Москва",
+            "region": "Москва"
+          },
+          "name": "Памятник Пушкину и Гончаровой",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 55.75222,
+              "longitude": 37.61556
+            },
+            "radius": 24000
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "4bdbfff73904a593ed9a4c9e",
+          "categories": [
+            {
+              "id": 10030,
+              "name": "History Museum",
+              "short_name": "History Museum",
+              "plural_name": "History Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 344,
+          "geocodes": {
+            "main": {
+              "latitude": 55.74948,
+              "longitude": 37.613222
+            },
+            "roof": {
+              "latitude": 55.74948,
+              "longitude": 37.613222
+            }
+          },
+          "link": "/v3/places/4bdbfff73904a593ed9a4c9e",
+          "location": {
+            "country": "RU",
+            "formatted_address": "103073, Москва",
+            "locality": "Москва",
+            "postcode": "103073",
+            "region": "Москва"
+          },
+          "name": "Kremlin Armory (Оружейная палата)",
+          "related_places": {
+            "parent": {
+              "fsq_id": "4bfbb199565f76b04ccf05db",
+              "categories": [
+                {
+                  "id": 12064,
+                  "name": "Government Building",
+                  "short_name": "Government",
+                  "plural_name": "Government Buildings",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_",
+                    "suffix": ".png"
+                  }
+                }
+              ],
+              "name": "Кремль / The Kremlin"
+            },
+            "children": [
+              {
+                "fsq_id": "5224747fbce61a8846e3ddfa",
+                "categories": [
+                  {
+                    "id": 11183,
+                    "name": "Conference Room",
+                    "short_name": "Conference Room",
+                    "plural_name": "Conference Rooms",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/building/conventioncenter_meetingroom_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Лекторий Музеев Московского Кремля"
+              }
+            ]
+          },
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "4b5ac73cf964a52037d428e3",
+          "categories": [
+            {
+              "id": 10028,
+              "name": "Art Museum",
+              "short_name": "Art Museum",
+              "plural_name": "Art Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 838,
+          "geocodes": {
+            "main": {
+              "latitude": 55.747239,
+              "longitude": 37.605221
+            },
+            "roof": {
+              "latitude": 55.747239,
+              "longitude": 37.605221
+            }
+          },
+          "link": "/v3/places/4b5ac73cf964a52037d428e3",
+          "location": {
+            "address": "Волхонка Ул., д. 12",
+            "country": "RU",
+            "cross_street": "Колымажный пер.",
+            "formatted_address": "Волхонка Ул., д. 12 (Колымажный пер.), 119019, Москва",
+            "locality": "Москва",
+            "postcode": "119019",
+            "region": "Москва"
+          },
+          "name": "The Pushkin State Museum of Fine Arts (Государственный музей изобразительных искусств им. А. С. Пушкина)",
+          "related_places": {
+            "parent": {
+              "fsq_id": "5635f301498e05a6830e9810",
+              "categories": [
+                {
+                  "id": 10027,
+                  "name": "Museum",
+                  "short_name": "Museum",
+                  "plural_name": "Museums",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                    "suffix": ".png"
+                  }
+                }
+              ],
+              "name": "Государственный музей изобразительных искусств имени А.С. Пушкина"
+            },
+            "children": [
+              {
+                "fsq_id": "4ff82722e4b0d48ad322b6fb",
+                "categories": [
+                  {
+                    "id": 10028,
+                    "name": "Art Museum",
+                    "short_name": "Art Museum",
+                    "plural_name": "Art Museums",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Галерея искусства стран Европы и Америки XIX-XX веков"
+              },
+              {
+                "fsq_id": "4cee9a8e13aea143efac6e9f",
+                "categories": [
+                  {
+                    "id": 10028,
+                    "name": "Art Museum",
+                    "short_name": "Art Museum",
+                    "plural_name": "Art Museums",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Отдел личных коллекций"
+              },
+              {
+                "fsq_id": "4f3cf9c7e4b04080ab7fbff4",
+                "categories": [
+                  {
+                    "id": 12047,
+                    "name": "Student Center",
+                    "short_name": "Student Center",
+                    "plural_name": "Student Centers",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/education/studentcenter_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Мусейон"
+              },
+              {
+                "fsq_id": "636793e207a69071a8c26ad3",
+                "categories": [
+                  {
+                    "id": 13034,
+                    "name": "Café",
+                    "short_name": "Café",
+                    "plural_name": "Cafés",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Il Giorno"
+              },
+              {
+                "fsq_id": "4f7ad61fe4b0998be7718e0c",
+                "categories": [
+                  {
+                    "id": 12080,
+                    "name": "Library",
+                    "short_name": "Library",
+                    "plural_name": "Libraries",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Библиотека ГМИИ"
+              },
+              {
+                "fsq_id": "4fbb6053e4b0c673b671829c",
+                "categories": [
+                  {
+                    "id": 16032,
+                    "name": "Park",
+                    "short_name": "Park",
+                    "plural_name": "Parks",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Сквер Антоновой"
+              },
+              {
+                "fsq_id": "5635f301498e05a6830e9810",
+                "categories": [
+                  {
+                    "id": 10027,
+                    "name": "Museum",
+                    "short_name": "Museum",
+                    "plural_name": "Museums",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                      "suffix": ".png"
+                    }
+                  }
+                ],
+                "name": "Государственный музей изобразительных искусств имени А.С. Пушкина"
+              }
+            ]
+          },
+          "timezone": "Europe/Moscow"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 55.75222,
+              "longitude": 37.61556
+            },
+            "radius": 24000
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "b2b2d271f2734130bf745be8",
+          "categories": [
+            {
+              "id": 17020,
+              "name": "Boutique",
+              "short_name": "Boutique",
+              "plural_name": "Boutiques",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 793,
+          "geocodes": {
+            "main": {
+              "latitude": 55.748236,
+              "longitude": 37.626096
+            },
+            "roof": {
+              "latitude": 55.748236,
+              "longitude": 37.626096
+            }
+          },
+          "link": "/v3/places/b2b2d271f2734130bf745be8",
+          "location": {
+            "address": "Балчуг Ул., д. 1",
+            "country": "RU",
+            "formatted_address": "Балчуг Ул., д. 1, Москва",
+            "locality": "Москва",
+            "region": "Москва"
+          },
+          "name": "HC BOUTIQUE",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "0d6153ca1ab749a8ae612f03",
+          "categories": [
+            {
+              "id": 17020,
+              "name": "Boutique",
+              "short_name": "Boutique",
+              "plural_name": "Boutiques",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 2425,
+          "geocodes": {
+            "main": {
+              "latitude": 55.73077,
+              "longitude": 37.62276
+            },
+            "roof": {
+              "latitude": 55.73077,
+              "longitude": 37.62276
+            }
+          },
+          "link": "/v3/places/0d6153ca1ab749a8ae612f03",
+          "location": {
+            "address": "Полянка Б. Ул., д. 63",
+            "country": "RU",
+            "formatted_address": "Полянка Б. Ул., д. 63, 119180, Москва",
+            "locality": "Москва",
+            "postcode": "119180",
+            "region": "Москва"
+          },
+          "name": "PORTFOLIO BOUTIQUE",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "4bc07c67461576b0262c7a32",
+          "categories": [
+            {
+              "id": 17020,
+              "name": "Boutique",
+              "short_name": "Boutique",
+              "plural_name": "Boutiques",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 1145,
+          "geocodes": {
+            "main": {
+              "latitude": 55.762436,
+              "longitude": 37.618723
+            },
+            "roof": {
+              "latitude": 55.762436,
+              "longitude": 37.618723
+            }
+          },
+          "link": "/v3/places/4bc07c67461576b0262c7a32",
+          "location": {
+            "address": "Петровка Ул., д. 10",
+            "country": "RU",
+            "cross_street": "ул. Петровка, 10",
+            "formatted_address": "Петровка Ул., д. 10 (ул. Петровка, 10), 107031, Москва",
+            "locality": "Москва",
+            "postcode": "107031",
+            "region": "Москва"
+          },
+          "name": "ETRO",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 55.75222,
+              "longitude": 37.61556
+            },
+            "radius": 24000
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "0d6153ca1ab749a8ae612f03",
+          "categories": [
+            {
+              "id": 17020,
+              "name": "Boutique",
+              "short_name": "Boutique",
+              "plural_name": "Boutiques",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 2425,
+          "geocodes": {
+            "main": {
+              "latitude": 55.73077,
+              "longitude": 37.62276
+            },
+            "roof": {
+              "latitude": 55.73077,
+              "longitude": 37.62276
+            }
+          },
+          "link": "/v3/places/0d6153ca1ab749a8ae612f03",
+          "location": {
+            "address": "Полянка Б. Ул., д. 63",
+            "country": "RU",
+            "formatted_address": "Полянка Б. Ул., д. 63, 119180, Москва",
+            "locality": "Москва",
+            "postcode": "119180",
+            "region": "Москва"
+          },
+          "name": "PORTFOLIO BOUTIQUE",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "56d03e8acd10d6b769b8995f",
+          "categories": [
+            {
+              "id": 11061,
+              "name": "Health and Beauty Service",
+              "short_name": "Health and Beauty Service",
+              "plural_name": "Health and Beauty Services",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/salon_barber_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 5279,
+          "geocodes": {
+            "drop_off": {
+              "latitude": 55.709922,
+              "longitude": 37.655991
+            },
+            "main": {
+              "latitude": 55.710359,
+              "longitude": 37.655846
+            },
+            "roof": {
+              "latitude": 55.710359,
+              "longitude": 37.655846
+            }
+          },
+          "link": "/v3/places/56d03e8acd10d6b769b8995f",
+          "location": {
+            "address": "Ул. Ленинская Слобода, 26, МЦ Roomer, 1",
+            "country": "RU",
+            "cross_street": "",
+            "formatted_address": "Ул. Ленинская Слобода, 26, МЦ Roomer, 1, Москва",
+            "locality": "Москва",
+            "region": "Москва"
+          },
+          "name": "Салон красоты Portfolio-Loft",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "e9c93975679744fc8b0b58d6",
+          "categories": [
+            {
+              "id": 13000,
+              "name": "Dining and Drinking",
+              "short_name": "Dining and Drinking",
+              "plural_name": "Dining and Drinking",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 4780,
+          "geocodes": {
+            "drop_off": {
+              "latitude": 55.778057,
+              "longitude": 37.677101
+            },
+            "main": {
+              "latitude": 55.777817,
+              "longitude": 37.677015
+            }
+          },
+          "link": "/v3/places/e9c93975679744fc8b0b58d6",
+          "location": {
+            "address": "Спартаковский пер., 2 ст1, 43",
+            "address_extended": "эт. 32",
+            "country": "RU",
+            "formatted_address": "Спартаковский пер., 2 ст1, 43, Москва",
+            "locality": "Москва",
+            "region": "Москва"
+          },
+          "name": "Оптовая фирма Inter Portfolio",
+          "related_places": {}
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 55.75222,
+              "longitude": 37.61556
+            },
+            "radius": 24000
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "59c5678db3c9613aae5e59a4",
+          "categories": [
+            {
+              "id": 13003,
+              "name": "Bar",
+              "short_name": "Bar",
+              "plural_name": "Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13057,
+              "name": "Gastropub",
+              "short_name": "Gastropub",
+              "plural_name": "Gastropubs",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 1633,
+          "geocodes": {
+            "main": {
+              "latitude": 55.764469,
+              "longitude": 37.600849
+            },
+            "roof": {
+              "latitude": 55.764469,
+              "longitude": 37.600849
+            }
+          },
+          "link": "/v3/places/59c5678db3c9613aae5e59a4",
+          "location": {
+            "address": "Большой Палашевский пер., 14/7",
+            "address_extended": "стр. 3",
+            "country": "RU",
+            "cross_street": "Сытинский туп.",
+            "formatted_address": "Большой Палашевский пер., 14/7 (Сытинский туп.), 123104, Москва",
+            "locality": "Москва",
+            "postcode": "123104",
+            "region": "Москва"
+          },
+          "name": "Tilda Food & Bar",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "531b0fbb498e1c639724a88a",
+          "categories": [
+            {
+              "id": 13003,
+              "name": "Bar",
+              "short_name": "Bar",
+              "plural_name": "Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13057,
+              "name": "Gastropub",
+              "short_name": "Gastropub",
+              "plural_name": "Gastropubs",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 2544,
+          "geocodes": {
+            "drop_off": {
+              "latitude": 55.733442,
+              "longitude": 37.638664
+            },
+            "main": {
+              "latitude": 55.733557,
+              "longitude": 37.638841
+            },
+            "roof": {
+              "latitude": 55.733557,
+              "longitude": 37.638841
+            }
+          },
+          "link": "/v3/places/531b0fbb498e1c639724a88a",
+          "location": {
+            "address": "Татарская Ул., д. 7",
+            "address_extended": "стр. 1",
+            "country": "RU",
+            "cross_street": "",
+            "formatted_address": "Татарская Ул., д. 7, 115054, Москва",
+            "locality": "Москва",
+            "postcode": "115054",
+            "region": "Москва"
+          },
+          "name": "Moments",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "59b6d780898bdc4e5f74f3af",
+          "categories": [
+            {
+              "id": 13006,
+              "name": "Beer Bar",
+              "short_name": "Beer Bar",
+              "plural_name": "Beer Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13057,
+              "name": "Gastropub",
+              "short_name": "Gastropub",
+              "plural_name": "Gastropubs",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 1215,
+          "geocodes": {
+            "main": {
+              "latitude": 55.759033,
+              "longitude": 37.600544
+            },
+            "roof": {
+              "latitude": 55.759033,
+              "longitude": 37.600544
+            }
+          },
+          "link": "/v3/places/59b6d780898bdc4e5f74f3af",
+          "location": {
+            "address": "Тверской б Ул., д. 10",
+            "address_extended": "стр. 1",
+            "country": "RU",
+            "cross_street": "",
+            "formatted_address": "Тверской б Ул., д. 10, 125009, Москва",
+            "locality": "Москва",
+            "postcode": "125009",
+            "region": "Москва"
+          },
+          "name": "Russian Pub (Русский паб)",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        },
+        {
+          "fsq_id": "544d0e81498e317ec4fa8d91",
+          "categories": [
+            {
+              "id": 13003,
+              "name": "Bar",
+              "short_name": "Bar",
+              "plural_name": "Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13034,
+              "name": "Café",
+              "short_name": "Café",
+              "plural_name": "Cafés",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13057,
+              "name": "Gastropub",
+              "short_name": "Gastropub",
+              "plural_name": "Gastropubs",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 1219,
+          "geocodes": {
+            "main": {
+              "latitude": 55.754713,
+              "longitude": 37.634749
+            },
+            "roof": {
+              "latitude": 55.754713,
+              "longitude": 37.634749
+            }
+          },
+          "link": "/v3/places/544d0e81498e317ec4fa8d91",
+          "location": {
+            "address": "Лубянский Пр., 25",
+            "address_extended": "стр. 2",
+            "country": "RU",
+            "cross_street": "Старая пл.",
+            "formatted_address": "Лубянский Пр., 25 (Старая пл.), Москва",
+            "locality": "Москва",
+            "region": "Москва"
+          },
+          "name": "Пороселло",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 55.75222,
+              "longitude": 37.61556
+            },
+            "radius": 24000
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "3282de5c24644de7578f8e05",
+          "categories": [],
+          "chains": [],
+          "closed_bucket": "Unsure",
+          "distance": 3214,
+          "geocodes": {
+            "main": {
+              "latitude": 55.738015,
+              "longitude": 37.570793
+            },
+            "roof": {
+              "latitude": 55.738015,
+              "longitude": 37.570793
+            }
+          },
+          "link": "/v3/places/3282de5c24644de7578f8e05",
+          "location": {
+            "address": "Саввинская наб. Ул., д. 5",
+            "country": "RU",
+            "formatted_address": "Саввинская наб. Ул., д. 5, Москва",
+            "locality": "Москва",
+            "region": "Москва"
+          },
+          "name": "Port",
+          "related_places": {}
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 55.75222,
+              "longitude": 37.61556
+            },
+            "radius": 24000
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "541c4b83498e3fbc997f2c61",
+          "categories": [
+            {
+              "id": 13329,
+              "name": "Russian Restaurant",
+              "short_name": "Russian",
+              "plural_name": "Russian Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/russian_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 523,
+          "geocodes": {
+            "main": {
+              "latitude": 55.756882,
+              "longitude": 37.614406
+            }
+          },
+          "link": "/v3/places/541c4b83498e3fbc997f2c61",
+          "location": {
+            "address": "Моховая Ул., д. 15/1",
+            "address_extended": "стр. 1",
+            "country": "RU",
+            "cross_street": "",
+            "formatted_address": "Моховая Ул., д. 15/1, 191028, Москва",
+            "locality": "Москва",
+            "postcode": "191028",
+            "region": "Москва"
+          },
+          "name": "Dr. Zhivago",
+          "related_places": {
+            "parent": {
+              "fsq_id": "4b683f13f964a520de6d2be3",
+              "categories": [
+                {
+                  "id": 19014,
+                  "name": "Hotel",
+                  "short_name": "Hotel",
+                  "plural_name": "Hotels",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                    "suffix": ".png"
+                  }
+                }
+              ],
+              "name": "Hotel National, a Luxury Collection Hotel, Moscow"
+            }
+          },
+          "timezone": "Europe/Moscow"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 55.75222,
+              "longitude": 37.61556
+            },
+            "radius": 24000
+          }
+        }
+      }
+    },
+    {
+      "results": [
+        {
+          "fsq_id": "62efba30906ef46dae046e7a",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "chains": [],
+          "closed_bucket": "LikelyOpen",
+          "distance": 800,
+          "geocodes": {
+            "main": {
+              "latitude": 58.518214,
+              "longitude": 31.28349
+            }
+          },
+          "link": "/v3/places/62efba30906ef46dae046e7a",
+          "location": {
+            "country": "RU",
+            "cross_street": "",
+            "formatted_address": "173000, Великий Новгород",
+            "locality": "Великий Новгород",
+            "postcode": "173000",
+            "region": "Новгородская обл."
+          },
+          "name": "Стела Героям Советского Союза",
+          "related_places": {},
+          "timezone": "Europe/Moscow"
+        }
+      ],
+      "context": {
+        "geo_bounds": {
+          "circle": {
+            "center": {
+              "latitude": 58.52131,
+              "longitude": 31.27104
+            },
+            "radius": 1792
+          }
+        }
+      }
+    }
+  ]
+}
